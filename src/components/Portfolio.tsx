@@ -190,7 +190,7 @@ const Portfolio = () => {
                   </div>
 
                   {/* Content */}
-                  <div className="absolute bottom-0 left-0 right-0 p-6">
+                  {/* <div className="absolute bottom-0 left-0 right-0 p-6">
                     <div className="transform translate-y-2 group-hover:translate-y-0 transition-transform duration-500">
                       <span className="inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-xs font-medium text-white/90 mb-2 border border-white/20">
                         {reel.category}
@@ -199,7 +199,7 @@ const Portfolio = () => {
                         {reel.title}
                       </h3>
                     </div>
-                  </div>
+                  </div> */}
 
                   {/* Shimmer effect */}
                   <div className="absolute inset-0 -translate-x-full group-hover:translate-x-full transition-transform duration-1000 bg-gradient-to-r from-transparent via-white/20 to-transparent skew-x-12"></div>
